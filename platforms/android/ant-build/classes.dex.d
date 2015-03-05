@@ -1,0 +1,23 @@
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes.dex : \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\com\phonegap\helloworld\BuildConfig.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\com\phonegap\helloworld\CordovaApp.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\com\phonegap\helloworld\R$attr.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\com\phonegap\helloworld\R$drawable.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\com\phonegap\helloworld\R$string.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\com\phonegap\helloworld\R$xml.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\com\phonegap\helloworld\R.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4$1.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowserDialog.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+C:\Users\Èô\Documents\apps\cq3\platforms\android\ant-build\dexedLibs\classes-16ebbf7d72cd41e3f5a87229077e4d24.jar \
