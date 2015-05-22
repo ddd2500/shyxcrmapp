@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.cq" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>CQ</name>
+    <name>shyx crm</name>
     <description>
-        http://colo-quant.com's app.
+        shyx crm's app.
     </description>
-    <author email="mail@dengruo.com" href="http://dengruo.com.com">
-        Ruo Deng on http://colo-quant.com
+    <author email="mail@dengruo.com" href="http://dengruo.com">
+        Ruo Deng on shyx
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
